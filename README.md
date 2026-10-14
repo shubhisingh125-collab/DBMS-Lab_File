@@ -10,9 +10,6 @@ This repository contains SQL programs and practical work completed as part of my
 - Practice SQL queries, joins, and subqueries.
 - Implement stored procedures, triggers, and transactions.
 
-## 🛠️ Tools Used
-- MySQL
-- MySQL Workbench
 
 ## 📂 Experiments
 
